@@ -9,13 +9,13 @@ This script is use to securely access an AKS cluster via Terraform, establish VN
 
 ## Deployed Resources
 
-### AKS Cluster
+#### AKS Cluster
 
 #### Virtual Network 1
 
 #### Virtual Network 2
 
-### Linux Virtual Machine
+#### Linux Virtual Machine
 
 ## Usage
 
